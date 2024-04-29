@@ -72,21 +72,28 @@ VIDEO-DEMO URL ->
      
   3. Backend :
                 https://www.loom.com/share/d32ac1f69e454fbab57841eb05fe958a?sid=1b64a82b-9707-4481-908b-3f087d283069
-     
+
 PROJECT SNAPSHOTS ->
 --------------------------------------------------------------------------------------------------------
 
 
-![Screenshot (21)](https://github.com/tikhepooja11/Realtime-collaborative-document-editor-app/assets/47672660/bf03a889-d6cb-477f-8c99-65edc7b7cced)
 
-![Screenshot (22)](https://github.com/tikhepooja11/Realtime-collaborative-document-editor-app/assets/47672660/4dc5290b-8d79-4d39-a32e-d8917e7eb8a1)
+![Screenshot (19)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/4e9c93d3-9b8d-4170-8683-41b3c9cdf44d)
 
-![Screenshot (27)](https://github.com/tikhepooja11/Realtime-collaborative-document-editor-app/assets/47672660/83fcd4cc-1e9e-4129-881a-6e31e4b98f73)
 
-![Screenshot (30)](https://github.com/tikhepooja11/Realtime-collaborative-document-editor-app/assets/47672660/dd043a3a-bfce-436c-842d-72afe1d1328d)
+![Screenshot (21)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/d8d46bcc-af22-40d3-964e-707766b51522)
 
-![Screenshot (33)](https://github.com/tikhepooja11/Realtime-collaborative-document-editor-app/assets/47672660/bcb569e2-bbb3-4994-a920-8223a292e9b2)
 
-![Screenshot (35)](https://github.com/tikhepooja11/Realtime-collaborative-document-editor-app/assets/47672660/e340aa0d-4315-427b-84c3-c79c0e714670)
+![Screenshot (22)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/37f102ba-e5d4-4083-8b7f-660db28e2cb9)
 
-![Screenshot (25)](https://github.com/tikhepooja11/Realtime-collaborative-document-editor-app/assets/47672660/9ca3c34e-c95c-4b62-8a48-7899d934b305)
+
+![Screenshot (26)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/bec637a6-c544-4f26-877b-5cd6dc594647)
+
+
+![Screenshot (28)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/ee8a2558-3320-40be-9f96-b40d3f5e2c16)
+
+
+![Screenshot (33)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/b7bea3c8-584d-4247-924f-dbe96bc2bd24)
+
+
+![Screenshot (35)](https://github.com/tikhepooja11/Realtime-collaborative-document-editing-app/assets/47672660/179da481-b196-410e-a4ce-d56cd1b43442)
